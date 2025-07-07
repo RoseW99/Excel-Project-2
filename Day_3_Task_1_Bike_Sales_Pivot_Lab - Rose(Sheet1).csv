@@ -1,0 +1,6 @@
+﻿Sum of Order_Quantity,,Country,,,,,,,,
+Age_Group,Customer_Gender,Australia,Canada,France,Germany,United  States,United Kingdom,United States,United States ,Grand Total
+Youth (<25),,11,0,10,0,0,6,0,0,27
+Young Adults (25-34),,20,11,10,0,0,4,16,0,61
+Adults (35-64),,32,0,0,13,2,4,47,1,99
+Grand Total,,63,11,20,13,2,14,63,1,187
